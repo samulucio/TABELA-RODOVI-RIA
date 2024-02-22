@@ -1,5 +1,5 @@
 table {
-    background-color: grey; /*Aqui estamos colocando cor de fundo*/
+    background-color: rgb(179, 94, 94); /*Aqui estamos colocando cor de fundo*/
     text-align: center; /*Estamos alinhando o texto ao centro*/
     
 }
@@ -10,10 +10,12 @@ tr {
 }
 
 .dombosco {
-    background-color: red;
+    background-color: rgb(196, 165, 31);
 }
 
-
-
-
-
+body{
+    background-color: cornflowerblue;
+}
+.danone{
+    background-color: rgb(202, 174, 17);
+}
