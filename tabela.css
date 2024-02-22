@@ -1,0 +1,19 @@
+table {
+    background-color: grey; /*Aqui estamos colocando cor de fundo*/
+    text-align: center; /*Estamos alinhando o texto ao centro*/
+    
+}
+
+tr {
+    color: white;
+    
+}
+
+.dombosco {
+    background-color: red;
+}
+
+
+
+
+
